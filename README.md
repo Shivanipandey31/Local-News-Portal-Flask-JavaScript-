@@ -24,5 +24,4 @@ Provides **user authentication** and **news article management** via a secure RE
 
 ---
 
-## 📂 Project Structure
 
