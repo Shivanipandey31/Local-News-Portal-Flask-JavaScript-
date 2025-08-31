@@ -1,0 +1,30 @@
+body {
+    font-family: system-ui, Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav a,
+nav button {
+    margin-right: .75rem;
+}
+
+form {
+    display: grid;
+    gap: .5rem;
+    margin-bottom: 1rem;
+}
+
+.article-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: .75rem;
+    margin-bottom: .75rem;
+}
